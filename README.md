@@ -1,5 +1,6 @@
 # Database-System-Implementation
-Implementing database management system similar to MySQL, Oracle. The project will support the following functionalities: query processing and optimization. transaction processing, index structures, parallel query processing.  
+Implementing database management system similar to MySQL, Oracle.  
+The project will support the following functionalities: query processing and optimization. transaction processing, index structures, parallel query processing.  
 
 - Week1 - Week2: Implemented DBFile class. The job of the DBFile class within your database system is simply to store and retrieve records from the disk.  
 
